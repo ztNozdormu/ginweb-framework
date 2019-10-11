@@ -1,0 +1,4 @@
+[GIN] 2019/10/10 - 17:37:27 | 404 |            0s |       127.0.0.1 | GET      /test?param=%E6%97%A5%E5%BF%97%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%AF%B7%E6%B1%82%E6%B5%8B%E8%AF%95
+[GIN] 2019/10/10 - 17:37:27 | 404 |            0s |       127.0.0.1 | GET      /favicon.ico
+[GIN] 2019/10/10 - 17:37:36 | 404 |            0s |       127.0.0.1 | GET      /paramGET?param=%E6%97%A5%E5%BF%97%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%AF%B7%E6%B1%82%E6%B5%8B%E8%AF%95
+[GIN] 2019/10/10 - 17:38:03 | 200 |            0s |       127.0.0.1 | GET      /logGET?param=%E6%97%A5%E5%BF%97%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%AF%B7%E6%B1%82%E6%B5%8B%E8%AF%95
